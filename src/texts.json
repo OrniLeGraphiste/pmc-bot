@@ -1,5 +1,5 @@
 {
-	"welcome": "Bonjour {user}, bienvenue sur PLAY-MC.FR. Clique sur le bouton ci-dessous pour définir ton pseudo Minecraft et ainsi obtenir l’accès au serveur Discord. Si tu rencontres un problème, n’hésite pas à contacter un membre du staff.",
+	"welcome": "Bonjour {user}, bienvenue sur Play-mc.fr. Clique sur le bouton ci-dessous pour définir ton pseudo Minecraft et ainsi obtenir l’accès au serveur Discord. Tu dois avoir rejoint le serveur au préalable à l'IP: play-mc.fr pour que ton pseudo soit validé. Si tu rencontres un problème, n’hésite pas à contacter un membre du staff.",
 	"button_set_username": "Définir mon pseudo",
 
 	"modal_title": "Définir mon pseudo",
